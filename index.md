@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.11.4, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.11.4, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo4.png" type="image/x-icon">
+  <meta name="description" content="安心して夜を過ごしたい。デリケートゾーンが心配。そんな貴女にDASHTAが送るベッドタイムサプリメント。。">
+  
+  <title>Gedenna</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+
+<!-- Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177781435-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177781435-1');
+</script>
+
+<!-- /Analytics -->
+
+
+  <section class="cid-s8a0bgDVKI" id="image2-5">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/titlelast-2304x1728.png" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="engine"><a href="https://mobirise.info/c">free site builder</a></section><section class="cid-s8a02fzz3G" id="image2-0">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/canva-200831-2048x1536.jpg" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s8a0bn6qzM" id="image2-7">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/-1-1414x2000.png" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s9k91phqKR" id="image2-j">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/canva-200901-2048x1536.jpg" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s9e3i2bSqO" id="image2-g">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/canva-200901-2048x15360.jpg" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s8a0bk3lZ7" id="image2-6">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/1598519640076-672x672.png" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s8a0bq4Uv9" id="image2-8">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/-1080x1080.png" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s8a0bdlPgI" id="image2-4">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/canva-200820-3-1080x1080.jpg" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s8a0b1nPFQ" id="image2-1">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/canva-200820-6-1080x1080.jpg" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s9e5xzOLB2" id="image2-i">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/1598859922063-1747x1240.png" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s8a0b6uTJ0" id="image2-2">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/canva-200820-5-1080x1080.jpg" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s9e3lcJHTW" id="image2-h">
+
+    
+
+    <figure class="mbr-figure">
+        <div class="image-block" style="width: 100%;">
+            <img src="assets/images/pink-green-classroom-poster-1-1587x2245.png" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+</section>
+
+<section class="cid-s973AOBI7i mbr-fullscreen mbr-parallax-background" id="header2-e">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.4; background-color: rgb(35, 35, 35);"></div>
+
+    <div class="container align-center">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">さあ、始めよう！<br></h1>
+                
+                
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E5%93%81-GEDENNA-%E3%82%B8%E3%82%A7%E3%83%87%E3%82%A3%E3%83%BC%E3%83%8A/dp/B089ZV2F7Y" target="_blank">今すぐ購入！</a></div>
+            </div>
+        </div>
+    </div>
+    
+</section>
+
+<section class="mbr-section form1 cid-saanFfBtwm" id="form1-2x">
+
+    
+
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="title col-12 col-lg-8">
+                <h2 class="mbr-section-title align-center pb-3 mbr-fonts-style display-2">
+                    ご質問とお問い合わせ</h2>
+                
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="media-container-column col-lg-8" data-form-type="formoid">
+                <!---Formbuilder Form--->
+                <form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="Lw8L/HG2vhTcYvHEH2bVF4gMh6I2vfAgZD0N4HUdckaZVCwPhRcv4/UKMsyvU6lVOekbqevZalGs/J2vRpRCfnyG0ssz7rogdvMzh3dpEBZyXa2/0Rvm8toXIt8Q6YnL">
+                    <div class="row">
+                        <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">お問い合わせありがとうございます。専門スタッフより最速でお返事します。</div>
+                        <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
+                        </div>
+                    </div>
+                    <div class="dragArea row">
+                        
+                        <div class="col-md-4  form-group" data-for="email">
+                            <label for="email-form1-2x" class="form-control-label mbr-fonts-style display-7">Eメール</label>
+                            <input type="email" name="email" data-form-field="Email" required="required" class="form-control display-7" id="email-form1-2x">
+                        </div>
+                        
+                        <div data-for="message" class="col-md-12 form-group">
+                            <label for="message-form1-2x" class="form-control-label mbr-fonts-style display-7">お問い合わせ内容</label>
+                            <textarea name="message" data-form-field="Message" class="form-control display-7" id="message-form1-2x"></textarea>
+                        </div>
+                        <div class="col-md-12 input-group-btn align-center"><button type="submit" class="btn btn-primary btn-form display-4">送信</button></div>
+                    </div>
+                </form><!---Formbuilder Form--->
+            </div>
+        </div>
+    </div>
+</section>
+
+<section once="footers" class="cid-saan7LoDPi mbr-reveal" id="footer7-2w">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            
+            
+            <div class="row row-copirayt">
+                <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
+                    © Copyright 2020&nbsp;<br>DASCHTA ジェディーナ - <br>All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/parallax/jarallax.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/formoid/formoid.min.js"></script>
+  
+  
+</body>
+</html>
